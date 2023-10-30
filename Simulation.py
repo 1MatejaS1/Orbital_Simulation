@@ -5,8 +5,8 @@ pygame.init()
 
 # Constants
 G = 6.67430e-11
-mass1 = 100000000000  # Arbitrary mass of the star (larger particle)
-mass2 = 1  # Mass of the planet
+mass1 = 100000000000  # Arbitrary mass of the star (heavier particle)
+mass2 = 1  # Mass of the planet (lighter particle)
 time_step = 1
 
 # Colors
